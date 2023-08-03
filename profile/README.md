@@ -14,12 +14,11 @@
 🌈The project is ongoing under Prof. Pawan kumar at IIT Kharagpur as Bachelor's Project, 
 Research fields are Data analysis and Mathematical modeling.
 The goal of the project is to develop algorithms, statical models, and optimization techniques to improve various aspects of E-commerce platforms such as recommendation systems, pricing strategies, supply chain management and customer behavior analysis.
-
+#### brief description 
 Recommendation Systems:
 Recommendation systems are algorithms and techniques used to suggest relevant items or content to users. They are widely used in various online platforms, such as e-commerce websites, streaming services, and social media platforms. The goal of recommendation systems is to provide personalized and tailored suggestions to users based on their past behavior, preferences, and interactions with the platform. These systems use data analysis and machine learning methods to predict user interests and make recommendations that increase user engagement and satisfaction.
 For example, in an e-commerce recommendation system, if a user has shown interest in a particular category of products or purchased specific items, the system can suggest similar or complementary products to encourage further exploration and potential purchases.
 
-#### brief description 
 Pricing Strategies:
 Pricing strategies refer to the methods and approaches that businesses use to set the prices of their products or services. Pricing decisions have a significant impact on a company's profitability, market position, and customer perception. Various pricing strategies can be employed, such as cost-based pricing, value-based pricing, competitive pricing, dynamic pricing, and penetration pricing.
 For instance, cost-based pricing involves setting prices based on production costs and adding a markup for profit, while value-based pricing focuses on pricing products based on the perceived value to the customer. Dynamic pricing, on the other hand, involves adjusting prices in real time based on factors like demand, seasonality, or competitor pricing.
