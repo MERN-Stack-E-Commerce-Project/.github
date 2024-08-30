@@ -11,25 +11,16 @@
    this app utilizes keen knowledge of web development and i had implemented NodeJS, MongoDB, ReactJS, Redux, JWT mainly.
 
 #### About Project
-🌈The project is ongoing under Prof. Pawan kumar at IIT Kharagpur as Bachelor's Project, 
-Research fields are Data analysis and Mathematical modeling.
-The goal of the project is to develop algorithms, statical models, and optimization techniques to improve various aspects of E-commerce platforms such as recommendation systems, pricing strategies, supply chain management and customer behavior analysis.
-#### brief description 
-Recommendation Systems:
-Recommendation systems are algorithms and techniques used to suggest relevant items or content to users. They are widely used in various online platforms, such as e-commerce websites, streaming services, and social media platforms. The goal of recommendation systems is to provide personalized and tailored suggestions to users based on their past behavior, preferences, and interactions with the platform. These systems use data analysis and machine learning methods to predict user interests and make recommendations that increase user engagement and satisfaction.
-For example, in an e-commerce recommendation system, if a user has shown interest in a particular category of products or purchased specific items, the system can suggest similar or complementary products to encourage further exploration and potential purchases.
+🌈This E-Commerce project is a comprehensive web application designed to implement and showcase the full spectrum of web development skills. The project is structured into three distinct repositories, each serving a crucial aspect of the application:
 
-Pricing Strategies:
-Pricing strategies refer to the methods and approaches that businesses use to set the prices of their products or services. Pricing decisions have a significant impact on a company's profitability, market position, and customer perception. Various pricing strategies can be employed, such as cost-based pricing, value-based pricing, competitive pricing, dynamic pricing, and penetration pricing.
-For instance, cost-based pricing involves setting prices based on production costs and adding a markup for profit, while value-based pricing focuses on pricing products based on the perceived value to the customer. Dynamic pricing, on the other hand, involves adjusting prices in real time based on factors like demand, seasonality, or competitor pricing.
+User-Side Interface: Focused on providing a seamless shopping experience for customers.
+Admin-Side Interface: Empowering administrators with robust tools to manage products, categories, and orders.
+Server-Side Queries: Handling all the backend logic, database interactions, and authentication processes.
+The project leverages modern web technologies like NodeJS, MongoDB, ReactJS, Redux, and JWT to build a secure, scalable, and efficient E-Commerce platform.
 
-Supply Chain Management:
-Supply chain management involves the coordination and optimization of activities involved in the production, distribution, and delivery of goods and services from suppliers to consumers. It aims to ensure the smooth flow of materials, information, and finances throughout the supply chain to minimize costs, reduce inefficiencies, and improve customer satisfaction.
-Effective supply chain management involves various components, including procurement, inventory management, logistics, transportation, warehousing, and demand forecasting. Advanced technologies, such as data analytics and blockchain, are increasingly used to enhance supply chain visibility and responsiveness.
+#### Brief Description
+This E-Commerce platform is designed to cater to both users and administrators by providing distinct interfaces for each. Users can browse products, add them to carts, and place orders, while administrators have control over store management, including product listings, categories, and order processing. The backend is robustly constructed with NodeJS and MongoDB, ensuring secure data handling and efficient query processing.
 
-Customer Behavior Analysis:
-Customer behavior analysis involves studying and understanding the actions, preferences, and decision-making patterns of customers. This analysis is crucial for businesses to tailor their products, marketing strategies, and customer experiences to meet customer needs effectively.
- 
 #### Implemented User Interface at Admin-side
 Admin can :\
 Register and Login for particular interval of time till JWT Token is valid then will logout Automaticallyy after expiry\
