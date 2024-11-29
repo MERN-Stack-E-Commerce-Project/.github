@@ -28,7 +28,7 @@ Admin can design separate store like: Apple, MI etc.
 Admin can alter the Categories information and relevant product of categories\
 Admin can access the newly ordered product from user side\
 #### Implementation at Backend
-The framework used: NodeJS,\
+The framework used: ExpressJS,\
 The database used : MongoDB\
 Models/Scema used for various dataset:
 1) User - To store login credential as well as user information
